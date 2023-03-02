@@ -1,11 +1,7 @@
-# simple-bash-scripts
-
-___a collection of simple bash scripts that can make your daily work a little easier___
-
  1. **deleting_old_and_empty_files.sh**
 
-	 deleting and showing files that are older than 31 days from /tmp and empty files from desktop![](https://imgur.com/a/WRINAcA)
-
+	 deleting and showing files that are older than 31 days from /tmp and empty files from desktop
+	![enter image description here](https://imgur.com/a/WRINAcA)
  2. **file_moving.sh**
 
 	file managment script, i saw someone write this in python and i thought it would be so much easier to do it in plain bash using the command find
