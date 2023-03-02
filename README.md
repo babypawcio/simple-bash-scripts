@@ -17,7 +17,7 @@
 
  - **mail_sender.sh** - (old, not sure if still working) simple mail sending script, reading its content from a file asks us for a recipient, subject, attachment and finally file with text
   
-	![mail](https://user-images.githubusercontent.com/107136361/222544550-36c95221-1b31-453d-a10c-2a46e12d8c06.png)
+	![mail](https://user-images.githubusercontent.com/107136361/222547892-15f9ddaa-502b-473c-963e-f55e8b24dca2.png)
 
 
  - **name_decapitalization.sh** - lowercases all file names in a directory (simple for loop, forwarding and tr command)
