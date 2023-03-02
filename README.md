@@ -1,6 +1,7 @@
  - **deleting_old_and_empty_files.sh**
 
 	 deleting and showing files that are older than 31 days from /tmp and empty files from desktop
+	 
 	![deleting](https://user-images.githubusercontent.com/107136361/222543155-b0edbe40-fcba-4c30-86a4-6f7d9dd7e639.png)
 
  - **file_moving.sh**
