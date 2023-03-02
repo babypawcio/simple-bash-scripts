@@ -16,6 +16,8 @@
  - **mail_sender.sh** - (old, not sure if still working) simple mail sending script, reading its content from a file asks us for a recipient, subject, attachment and finally file with text
 
  - **name_decapitalization.sh** - lowercases all file names in a directory (simple for loop, forwarding and tr command)
+ 
+	![decapitalize](https://user-images.githubusercontent.com/107136361/222543849-c8c10924-f3a7-4e8d-8ede-859ea2a4098b.png)
 
  - **packet_loss_checker.sh** - sends given number of packets to a wikipedia.pl host and then tracerouting to it (mtr command)
 
