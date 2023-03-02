@@ -3,4 +3,4 @@
 a collection of simple bash scripts that can make your daily work a little easier
 
 
-__essa__
+__deleting_old_and_empty_files.sh__
