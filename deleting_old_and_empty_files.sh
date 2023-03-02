@@ -16,7 +16,7 @@ deleting()
 
     #writing to stdout and deleting empty files from desktop
 
-    find ~/Pulpit/ -user pawel -empty -exec echo '{}' \; 2>/dev/null
+    find ~/Pulpit/ -user pawel -empty -exec echo '{}' \;
 
     sleep 3s
 

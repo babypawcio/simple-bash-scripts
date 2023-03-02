@@ -25,7 +25,7 @@ sending()
     done
 
     while [ $option == 'n' ] ; do
-        mail -s $subject $reciver <$file 
+        mail -s $subject $reciver < $file 
         break
     done 
 
