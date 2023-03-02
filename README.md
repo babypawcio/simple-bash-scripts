@@ -9,9 +9,9 @@
 	file managment script, i saw someone write this in python and i thought it would be so much easier to do it in plain bash using the command find
 
 	moves
- files with specified extensions from ~/Downloads to adequate directories (for example .jpg, .png -> ~/Pictures, .mp4, .avi -> ~/Movies etc.)
+ 	files with specified extensions from ~/Downloads to adequate directories (for example .jpg, .png -> ~/Pictures, .mp4, .avi -> ~/Movies etc.)
  
- ![moving](https://user-images.githubusercontent.com/107136361/222543420-8154693d-c056-427d-961a-63ce826f7e3e.png)
+ 	![moving](https://user-images.githubusercontent.com/107136361/222543420-8154693d-c056-427d-961a-63ce826f7e3e.png)
 
  - **mail_sender.sh** - (old, not sure if still working) simple mail sending script, reading its content from a file asks us for a recipient, subject, attachment and finally file with text
 
